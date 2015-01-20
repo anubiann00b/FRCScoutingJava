@@ -1,2 +1,5 @@
 # FRCScoutingJava
-Java scouting program.
+
+Java scouting program. Firebase demo.
+
+[Full Android Project](https://github.com/SaintsRobotics/FRCScouting-Android).
