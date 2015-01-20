@@ -1,0 +1,2 @@
+# FRCScoutingJava
+Java scouting program.
